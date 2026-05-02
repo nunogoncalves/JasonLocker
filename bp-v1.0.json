@@ -1,0 +1,19 @@
+{
+  "discounts": [
+    { "from": 0,  "to": 23, "discount": 5 },
+    { "from": 24, "to": 27, "discount": 6 },
+    { "from": 28, "to": 31, "discount": 7 },
+    { "from": 32, "to": 35, "discount": 8 },
+    { "from": 36, "to": 39, "discount": 9 },
+    { "from": 40, "to": 43, "discount": 10 },
+    { "from": 44, "to": 47, "discount": 11 },
+    { "from": 48, "to": 51, "discount": 12 },
+    { "from": 52, "to": 55, "discount": 13 },
+    { "from": 56, "to": 59, "discount": 14 },
+    { "from": 60, "to": 63, "discount": 15 },
+    { "from": 64, "to": 67, "discount": 16 },
+    { "from": 68, "to": 71, "discount": 17 },
+    { "from": 72, "to": 75, "discount": 18 },
+    { "from": 76, "to": 79, "discount": 19 },
+    { "from": 80, "to": 1000, "discount": 20 }
+]
