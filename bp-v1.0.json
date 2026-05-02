@@ -16,4 +16,5 @@
     { "from": 72, "to": 75, "discount": 18 },
     { "from": 76, "to": 79, "discount": 19 },
     { "from": 80, "to": 1000, "discount": 20 }
-]
+  ]
+}
